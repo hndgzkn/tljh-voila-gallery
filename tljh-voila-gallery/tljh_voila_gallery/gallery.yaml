@@ -2,7 +2,7 @@ examples:
   country-indicators:
     title: Simple
     description: Explore the correlations between indicators of development using matplotlib and ipywidgets
-    url: voila/render/index.ipynb
-    repo_url: https://github.com/NeuroLang/neurolang_web/blob/master/notebooks/simple_voila_ui.py
+    url: voila/render/simple_voila_ui.py
+    repo_url: https://github.com/NeuroLang/neurolang_web
     ref: aaa333aae6963a89c3f521871953cca5f12146d4
     image_url: https://i.imgur.com/IeG75O3.png
